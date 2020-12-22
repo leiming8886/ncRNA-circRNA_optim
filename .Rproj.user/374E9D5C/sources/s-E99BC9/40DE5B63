@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1608537367195.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "40DE5B63",
+    "lastKnownWriteTime" : 1608623589,
+    "last_content_update" : 1608623589795,
+    "path" : "E:/ncRNAcircRNA/ncRNAcircRNA/R/runmodule.R",
+    "project_path" : "R/runmodule.R",
+    "properties" : {
+        "cursorPosition" : "32,29",
+        "scrollLine" : "24"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

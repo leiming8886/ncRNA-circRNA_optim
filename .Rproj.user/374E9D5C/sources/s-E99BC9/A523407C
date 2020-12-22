@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1608534281574.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A523407C",
+    "lastKnownWriteTime" : 1608622528,
+    "last_content_update" : 1608622528144,
+    "path" : "E:/ncRNAcircRNA/ncRNAcircRNA/R/FastHeinz.R",
+    "project_path" : "R/FastHeinz.R",
+    "properties" : {
+        "cursorPosition" : "8,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

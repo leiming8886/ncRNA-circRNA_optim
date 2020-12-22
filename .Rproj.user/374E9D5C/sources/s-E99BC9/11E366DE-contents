@@ -1,0 +1,16 @@
+head(node_attr_Example)
+data("network_Example")
+geneweight <- combinp(node_attr_Example)
+gene2weight = gene2weight[1:100,]
+res.list_Heinz <- runmodule(network = network_Example, gene2weight, method = "Heinz")
+res.list_gs <- runmodule(network = network_Example, gene2weight, method = "GS")
+logFC_temp <- node_attr_Example$logFC
+names(logFC_temp) <- rownames(node_attr_Example)
+weigth_temp <- geneweight$weight
+names(weigth_temp) <- rownames(weigth_temp)
+#Heinz
+plotSub(res.list_Heinz$module, scores = weigth_temp, diff.expr = logFC_temp)
+#GS
+node.list <- res.list_gs$module$`CHEK1(1111)`
+module_gs_temp <- subNetwork_only(nodeList=node.list, network=res.list_gs$GWNE)
+plotSub(module_gs_temp, scores = weigth_temp, diff.expr = logFC_temp)

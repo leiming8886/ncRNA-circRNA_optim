@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1608637333525.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "812328A9",
+    "lastKnownWriteTime" : 1608637339,
+    "last_content_update" : 1608637339389,
+    "path" : "E:/ncRNAcircRNA/ncRNAcircRNA/R/subNetwork_only.R",
+    "project_path" : "R/subNetwork_only.R",
+    "properties" : {
+        "cursorPosition" : "3,2",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

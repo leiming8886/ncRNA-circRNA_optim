@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1608634554492.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "825C3853",
+    "lastKnownWriteTime" : 1608637326,
+    "last_content_update" : 1608637326813,
+    "path" : "E:/ncRNAcircRNA/ncRNAcircRNA/R/largestComp.R",
+    "project_path" : "R/largestComp.R",
+    "properties" : {
+        "cursorPosition" : "2,73",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
